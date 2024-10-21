@@ -228,9 +228,9 @@ This project is licensed under the Apache 2.0 License. See `LICENSE` for more in
 <!-- CONTACT -->
 ## Contact
 
-Rushabh Kela - +91 9834473257 - kelarushabh@gmail.com
+Shushanth B S - +7010988788 - bsshu2003@gmail.com
 
-Project Link: [https://github.com/rushabhkela/EZ-Shopping](https://github.com/rushabhkela/EZ-Shopping)
+Project Link: [https://github.com/shushanth2003/Mern_stack_Naan_mudhalvan]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
