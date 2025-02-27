@@ -1,10 +1,6 @@
-<div id="top"></div>
 
-<br />
 <div align="center">
-  <a href="https://github.com/shushanth2003/Mern_stack_Naan_mudhalvan">
-    <img src="https://icons-for-free.com/iconfiles/png/512/cart+checked+ecommerce+online+shopping+shopping+cart+icon-1320165952137863404.png" alt="Logo" width="100">
-  </a>
+
 
   <h3 align="center">Snap Shop</h3>
 
