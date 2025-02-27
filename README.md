@@ -2,11 +2,11 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/rushabhkela/EZ-Shopping">
+  <a href="https://github.com/shushanth2003/Mern_stack_Naan_mudhalvan">
     <img src="https://icons-for-free.com/iconfiles/png/512/cart+checked+ecommerce+online+shopping+shopping+cart+icon-1320165952137863404.png" alt="Logo" width="100">
   </a>
 
-  <h3 align="center">EZ - Shopping</h3>
+  <h3 align="center">Snap Shop</h3>
 
   <p align="center">
     A fully featured multi - vendor <b>E - commerce</b> website.
@@ -118,122 +118,6 @@ This project was built with the following frameworks and technologies:
 * [Javascript](https://www.w3schools.com/js/)
 * [Cloudinary Storage (for vendor applications and product images)](https://cloudinary.com/)
 * [RazorPay Payment Gateway](https://razorpay.com/docs/payment-gateway/web-integration/standard/)
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-Follow the steps given below to run the project locally on your system.
-
-### Prerequisites
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  npm install nodemon@latest -g
-  ```
-
-### Installation
-
-_Once all the prerequisites are met, the required API Keys must be generated and dependencies must be installed._
-
-1. Create a [RazorPay Developer Account](https://dashboard.razorpay.com/signin?screen=sign_in) and get the `RAZORPAY_KEY_ID` and `RAZORPAY_KEY_SECRET` credentials.
-2. Create a [Cloudinary Account](https://cloudinary.com/) and obtain the `API_KEY`, `API_SECRET` and `CLOUD` from your dashboard.
-3. Create a free MongoDB Atlas cluster at [https://www.mongodb.com/atlas](https://www.mongodb.com/atlas)
-
-4. Clone the repo
-   ```sh
-   git clone https://github.com/rushabhkela/EZ-Shopping.git
-   ```
-3. In each of the `Admin`, `Vendor` and `Client` directories, perform steps 4-6.
-4. Install NPM packages
-   ```sh
-   npm install
-   ```
-5. Create the .env file
-   ```sh
-   cp .env.example .env
-   ```
-6. In the .env file, enter your credentials generated in the above steps and add a suitable session-key.
-7. Good to go! Start the project locally using the following command in any of the `Admin`, `Vendor` and `Client` directories.
-   ```sh
-   npm start
-   ```
-8. ```sh
-    Admin Portal : http://localhost:3002
-    Vendor Portal : http://localhost:3001
-    Client Portal : http://localhost:3000
-   ```
-9. Alternatively, you can visit the website at [EZ-Shopping](https://ezshopping-rushabh.herokuapp.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Workflow
-### The below flowchart depicts the features and its connected flow in the website.
-The flowchart can also be accessed at this [link](https://whimsical.com/ez-shopping-flowchart-9kc9bRe9VuCrwgz2hwn69d)
-
-<img width="100%" src="https://user-images.githubusercontent.com/60788199/147579506-44cc5cf3-7f6f-497f-822a-a7e1d49f4f06.png" alt="flowchart">
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Implement Client Side Website
-- [x] Add Multi - Vendor Functionality
-- [x] Create Admin Portal
-- [ ] Create a graphical view dashboard for both vendor and admin
-- [ ] Add a recommenndation system
-
-See the [open issues](https://github.com/rushabhkela/VITdost/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-This project is licensed under the Apache 2.0 License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Shushanth B S - +7010988788 - bsshu2003@gmail.com
-
-Project Link: [https://github.com/shushanth2003/Mern_stack_Naan_mudhalvan]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
